@@ -1,1 +1,54 @@
-# Car_Sales-Dashboard
+Car Brand Sales – Dynamic Power BI Dashboard
+📊 Project Overview
+
+This project is a dynamic and fully interactive Power BI dashboard designed to analyze car brand sales, model distribution, and yearly performance trends.
+
+The dashboard allows users to explore insights using filters, slicers, and drill-downs.
+
+🛠 Tools Used
+
+Power BI
+
+Excel dataset
+
+Data cleaning & modeling
+
+Basic DAX calculations
+
+⭐ Key Insights
+
+Comparison of total sales across car brands
+
+Year-wise sales growth trends
+
+Top performing car models
+
+Number of models available for each brand
+
+🎯 Key Features
+
+Interactive filters and slicers
+
+Drill-down to explore deeper insights
+
+Dynamic visuals that update instantly
+
+Clean and professional dashboard design
+
+🎓 What I Learned
+
+Building dynamic dashboards in Power BI
+
+Structuring reports for decision-making
+
+Designing visuals clearly and simply
+
+Presenting insights effectively
+
+🙏 Acknowledgment
+
+Special thanks to Vikas Dhakad Sir for guidance and motivation.
+
+📷 Dashboard Preview
+
+![car dashboard](https://github.com/jigyasaw1-beep/Car_Sales-Dashboard/blob/main/Screenshot%202026-01-07%20192601.png)
